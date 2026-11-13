@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128">
+  <defs>
+    <linearGradient id="gestacion" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#86c3ff"/>
+      <stop offset="1" stop-color="#548ec7"/>
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="33.2" r="28.6" fill="#000" fill-opacity="0.28"/>
+  <circle cx="32" cy="32" r="28.6" fill="#ffffff"/>
+  <circle cx="32" cy="32" r="25" fill="url(#gestacion)"/>
+  <circle cx="32" cy="32" r="28.6" fill="none" stroke="#0b1f1c" stroke-opacity="0.55" stroke-width="1"/>
+  <g fill="none" stroke="#ffffff" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30.2 24.6 L34.4 21.2 L30.8 18.4" stroke-width="2"/>
+    <path d="M27.8 18.4 H34.6" stroke-width="2"/>
+    <path d="M26.6 42 L25.6 30.2 C25.3 27.1 27.6 24.6 30.6 24.6 H33.4 C36.4 24.6 38.7 27.1 38.4 30.2 L37.4 42 Z" stroke-width="2.6"/>
+    <path d="M28 33.4 L27.6 30.4 C27.5 28.9 28.6 27.6 30.1 27.6 H33.9 C35.4 27.6 36.5 28.9 36.4 30.4 L36 33.4 Z" fill="#ffffff" stroke-width="1.4"/>
+    <path d="M28.4 38.4 H30.2 M33.8 38.4 H35.6" stroke-width="2"/>
+    <path d="M28.6 42 L27.4 46.5 M35.4 42 L36.6 46.5" stroke-width="2.2"/>
+    <path d="M14.5 26.6 L23 24 M49.5 26.6 L41 24" stroke-width="2.6"/>
+    <path d="M18 26 V40 M46 26 V40" stroke-width="2.2"/>
+    <path d="M14.5 41 H23 M41 41 H49.5" stroke-width="3.6"/>
+  </g>
+</svg>
